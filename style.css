@@ -1,0 +1,64 @@
+body{
+    background:url("/images/Background-HD-Images-Screen-Download.jpg");
+  background-repeat: repeat;
+background-attachment: fixed;
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.log{
+    color: white;
+ font-size:large;
+ text-transform: capitalize;
+}
+/* .radio{
+    color: white;
+    margin:;
+}  */
+/* .radio input{
+    color: chartreuse;
+} */
+.total{
+    width: 500px;
+    background-color: rgba(247, 245, 245, 0.1);
+    margin:  100px auto;
+    padding:10px 40px 30px;
+    font-size: 30px;
+    border-radius: 10px;
+}
+
+.total h2{
+    color:greenyellow;
+    padding: 10px;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.total .textlable{
+    display: block;
+}
+.total input{
+    width:100%;
+    font-size: 1.1em;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 5px 5px;
+    box-sizing: border-box;
+    margin: 5px 0px 15px;
+}
+input:focus{
+    background-color: gray;
+}
+.sub{
+    text-align: center;
+
+}
+button{
+    background-color: rgb(112, 243, 243);
+    color: white;
+    padding: 10px 10px ;
+    border-radius: 6px;
+    border: 1px solid rgb(86, 75, 177);
+box-shadow: 2px;
+text-transform: capitalize;
+}
